@@ -1,1 +1,1 @@
-console.log("这是新js文件”）
+console.log("这是新的js文件");
